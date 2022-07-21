@@ -130,7 +130,7 @@ git remote -v
 git push origin main
 ```
 
-## Resolvendo Merge Conflicts
+## Resolvendo Merge Conflicts ❌
 
 *Pull das atualizações e auto merge:*
 
@@ -146,4 +146,5 @@ git merge --abort
 
 -----------------------------
 **Author:** *Regiane Piccinin*
+
 **GitHub:** *[repiccinin](https://github.com/repiccinin/)*
