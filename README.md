@@ -6,6 +6,10 @@ Repositório criado para os Desafios de projeto.
   
   Curso: ***Introdução ao Git e ao GitHub/***
 
+
+
+
+------------------------
 #### Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 ##### SantanderCodeGirls
