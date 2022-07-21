@@ -13,5 +13,5 @@ Repositório criado para os Desafios de projeto.
 #### Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Markdown Editor](https://boostnote.io/)
+[BoostNote Markdown Editor](https://boostnote.io/)
 ##### SantanderCodeGirls
