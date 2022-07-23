@@ -8,8 +8,8 @@ public class PrimeiroPrograma {
 		// TODO Auto-generated method stub
 		Gato gato = new Gato();
 		Livros livro = new Livros();
-		System.out.println("Gato:"+gato);
-		System.out.println("Livro:"+livro);
+		System.out.println("Gato: "+gato);
+		System.out.println("Livro: "+livro);
 	}
 
 }
