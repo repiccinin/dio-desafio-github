@@ -9,32 +9,16 @@ Ao final mostre os números e seus sucessores.
 public class Ex3_NumerosAleatorios {
     public static void main(String[] args) {
         Random random = new Random();
+        int[] vetor = new int[20];
 
-        int[] numerosAleatorios = new int[20];
-
-        for(int i = 0; i < numerosAleatorios.length; i++) {
-            int numero = random.nextInt(100);
-            numerosAleatorios[i] = numero;
+        for (int i = 0; i < 20; i++){
+            vetor[i] = random.nextInt(100);
         }
 
-        System.out.print("Numeros Aleatorios: ");
-        for (int numero : numerosAleatorios) {
-            System.out.print(numero + " ");
+        int j = 0;
+        while (j < vetor.length){
+            System.out.print(vetor[j]+" ");
+            j++;
         }
-
-        System.out.print("\nAntecessor dos Numeros Aleatorios: ");
-        for (int numero : numerosAleatorios) {
-            System.out.print((numero-1) + " ");
-        }
-
-        System.out.print("\nSucessores dos Numeros Aleatorios: ");
-        for (int numero : numerosAleatorios) {
-            System.out.print((numero+1) + " ");
-        }
-
-
-
-
     }
-
 }
